@@ -14,6 +14,6 @@ class Method2
 	}
 	public static void car()
 	{
-		System.out.println("car start");
+		System.out.println("car start now");
 	}
 }
